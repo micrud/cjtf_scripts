@@ -1,0 +1,1 @@
+Place the folder, description.ext and the init.sqf in the mission u want a freaky target and give a object the variable "target".
